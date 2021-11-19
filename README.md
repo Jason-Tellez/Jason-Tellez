@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Jason-Tellez
-- 👀 I’m interested in ...
+- 👀 I’m interested in being a better coder.
+<!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+--->
+
+- 📫 You can reach me via my email!!
 
 <!---
 Jason-Tellez/Jason-Tellez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
